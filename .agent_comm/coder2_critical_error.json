@@ -1,0 +1,8 @@
+{
+  "from": "coder2",
+  "to": "manager",
+  "type": "critical_error",
+  "message": "Failed to save scripts/download_models.py: [Errno 2] No such file or directory: 'artifacts/projects/NeuroSymbolic_Tax_Reasoning_System/scripts/download_models.py'",
+  "details": {},
+  "timestamp": "2025-08-29T20:50:48.709565"
+}
