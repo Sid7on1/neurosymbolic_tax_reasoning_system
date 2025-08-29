@@ -1,0 +1,16 @@
+{
+  "project_name": "NeuroSymbolic_Tax_Reasoning_System",
+  "project_type": "nlp",
+  "completion_time": "2025-08-29T20:53:17.149169",
+  "total_tasks": 8,
+  "completed_tasks": 6,
+  "failed_tasks": 2,
+  "critical_errors": 0,
+  "agents_used": [
+    "coder1",
+    "coder2",
+    "coder3",
+    "coder4"
+  ],
+  "project_directory": "artifacts/projects/NeuroSymbolic_Tax_Reasoning_System"
+}
